@@ -7,11 +7,6 @@ Deepfakes can distort our perception of the truth and we need to develop a strat
 
 For an instance, Recently a video on social media has shown that a high ranked U.S legislator declared his own support for an enormous tax increase. At this point, people might tend to react accordingly because the video is exactly the same as the person by looks and voice. This way, DeepFake content can be used to manipulate people’s opinions. So, Deepfakes detection plays a prominent role in identifying fake content on social media and other forms of media.
 
-Relevant work:
-    ●	Blink detection network using CNN and LSTM - https://arxiv.org/pdf/1806.02877.pdf
-    ●	Recurrent Convolutional Strategies for Face Manipulation Detection in Videos - https://arxiv.org/pdf/1905.00582.pdf
-    ●	Deep Learning Based Computer Generated Face Identification Using Convolutional Neural Network(CGFace) - https://www.mdpi.com/2076-  3417/8/12/2610/htm
-    ●	MesoNet: a Compact Facial Video Forgery Detection Network - https://hal-upec-upem.archives-ouvertes.fr/hal-01867298/document
 
 ## # Dataset:
 
@@ -44,3 +39,11 @@ Individual Video length (8 seconds) → 300 Frames
 ## Resul:
 
 ![](Images/results.JPG)
+
+## References:
+
+
+    ●	Blink detection network using CNN and LSTM - https://arxiv.org/pdf/1806.02877.pdf
+    ●	Recurrent Convolutional Strategies for Face Manipulation Detection in Videos - https://arxiv.org/pdf/1905.00582.pdf
+    ●	Deep Learning Based Computer Generated Face Identification Using Convolutional Neural Network(CGFace) - https://www.mdpi.com/2076-  3417/8/12/2610/htm
+    ●	MesoNet: a Compact Facial Video Forgery Detection Network - https://hal-upec-upem.archives-ouvertes.fr/hal-01867298/document
