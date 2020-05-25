@@ -36,7 +36,7 @@ Individual Video length (8 seconds) → 300 Frames
 ![](Images/maml.JPG)
 
 
-## Resul:
+## Result:
 
 ![](Images/results.JPG)
 
